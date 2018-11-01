@@ -1,0 +1,100 @@
+.fnews{
+    position: absolute;
+    left: 150px;
+    top: 290px;
+    border-radius: 10px;
+}
+.newsname{
+    position: absolute;
+    left: 150px;
+    right: 476px;
+    top: 150px;
+}
+.data{
+    position: absolute;
+    top: 245px;
+    left: 150px;
+}
+.newsinform{
+    position: absolute;
+    left: 150px;
+    right: 476px;
+    top: 750px;
+    font-size: 18px;
+}
+.obs{
+    position: absolute;
+    left: 950px;
+    top: 200px;
+    width: 350px;
+    height: 700px;
+    background-color: #a7a7a7;
+}
+.obs a{
+    position: absolute;
+    left: 5px;
+    color: black;
+    text-decoration: none;
+}
+.obs a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.obsheader{
+    position: absolute;
+    left: 970px;
+    top: 170px;
+    width: 310px;
+    height: 60px;
+    background-color: black;
+}
+.obsheader h3{
+    position: absolute;
+    top: -5px;
+    left: 65px;
+    color: white;
+}
+.fotocomment{
+    position: absolute;
+    left: 150px;
+    border-radius: 50%;
+}
+.comment{
+    position: absolute;
+    left: 210px;
+}
+.commentbut{
+    position: absolute;
+    left: 635px;
+}
+.commentbut input[type=submit]{
+	background: #337AB7;
+	color: white;
+}
+.commentbut input[type=submit]:hover{
+	background: #286090;
+}
+#comment{
+	height: 50px;
+    width: 500px;
+}
+.username{
+    position: absolute;
+    left: 210px;
+}
+.commenttext{
+    position: absolute;
+    left: 210px;
+    right: 656px;
+    font-size: 14px;
+}
+.datacomment{
+    position: absolute;
+    left: 210px;
+    font-size: 10px;
+}
+.video{
+    position: absolute;
+    left: 150px;
+    top: 950px;
+}

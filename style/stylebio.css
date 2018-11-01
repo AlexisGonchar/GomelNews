@@ -1,0 +1,7 @@
+.biofoto{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    margin: 200px 7px 7px 0;
+}

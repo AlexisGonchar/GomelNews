@@ -1,0 +1,86 @@
+.blogfoto1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:250px; 
+    left:191px;
+    border-radius: 50%;
+}
+.blogfoto1:hover{
+    width: 250px;
+    height: 250px;
+    top:225px; 
+    left:166px;
+}
+.blogfoto2{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:250px; 
+    left:582px;
+    border-radius: 50%;
+}
+.blogfoto2:hover{
+    width: 250px;
+    height: 250px;
+    top:225px; 
+    left:557px;
+}
+.blogfoto3{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:250px; 
+    left:973px;
+    border-radius: 50%;
+}
+.blogfoto3:hover{
+    width: 250px;
+    height: 250px;
+    top:225px; 
+    left:948px;
+}
+.blogfoto4{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:550px; 
+    left:191px;
+    border-radius: 50%;
+}
+.blogfoto4:hover{
+    width: 250px;
+    height: 250px;
+    top:525px; 
+    left:166px;
+}
+.blogfoto5{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:550px; 
+    left:582px;
+    border-radius: 50%;
+}
+.blogfoto5:hover{
+    width: 250px;
+    height: 250px;
+    top:525px; 
+    left:557px;
+}
+.blogfoto6{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top:550px; left:973px;
+    border-radius: 50%;
+}
+.blogfoto6:hover{
+    width: 250px;
+    height: 250px;
+    top:525px; 
+    left:948px;
+}
+.blogername{
+    position: absolute;
+}
